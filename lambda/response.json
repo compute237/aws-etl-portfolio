@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"message\": \"Bucket created successfully\", \"bucket_name\": \"userdata-usr-demo-001\", \"user_id\": \"usr-demo-001\", \"region\": \"us-east-1\"}"}

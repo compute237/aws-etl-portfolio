@@ -1,0 +1,8 @@
+user_id,email,age,revenue,signup_date
+usr_001,Alice@Example.COM,28,450.00,2024-01-15
+usr_002,bob@test.com,34,1200.50,2024-01-16
+usr_001,alice@example.com,28,450.00,2024-01-15
+usr_003,carol@demo.com,999,300.00,2024-01-17
+usr_004,dave@example.com,41,-50.00,2024-01-18
+usr_005,EVE@TEST.COM,29,875.25,2024-01-19
+usr_006,frank@demo.com,52,2100.00,2024-01-20
